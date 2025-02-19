@@ -2,6 +2,7 @@
 **Senior FullStack Developer | Cloud Technologies | User Experience | Team Leadership**  
 📍 Kathmandu, Nepal  
 📧 bigyatuladhar07@gmail.com  
+🌐 **[Bigya Tuladhar Portfolio](https://bigya.com.np/)** 
 🔗 [LinkedIn](https://www.linkedin.com/in/bigya-tuladhar/)  
 
 ---
@@ -16,10 +17,10 @@
 #### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 #### **Cloud & DevOps**
@@ -63,8 +64,7 @@
 🌐 **[Upaya Business Solutions](https://ubs.com.np/)**  
 🌐 **[Crystal Academy](https://crystalacademy.org/)**  
 🌐 **[WorkItPT](https://workitpt.goswivt.com/)**  
-🌐 **[Upaya Logistics](https://upaya.com.np/)**  
-🌐 **[Bigya Tuladhar Portfolio](https://bigya.com.np/)**  
+🌐 **[Upaya Logistics](https://upaya.com.np/)**   
 🌐 **[Aitken Vanson](https://aitkenvanson.com/)**  
 
 ---
