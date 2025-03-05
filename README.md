@@ -71,10 +71,6 @@
 
 ### 📈 GitHub Stats  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazeBigya&theme=radical" alt="GitHub Profile Summary" width="48%" />  
-<img src="https://github-readme-stats.vercel.app/api?username=HazeBigya&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-
-### 🗓️ GitHub Activity  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HazeBigya&theme=radical)
 
 ### 🧑‍💻 Top Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazeBigya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
